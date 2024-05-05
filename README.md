@@ -35,4 +35,4 @@ Features
 ![2024-05-05 (4)](https://github.com/dainy390/calculator/assets/112776500/bd591e13-2a5f-4f3e-92f4-6dfc085ef59a)
 ![2024-05-05 (5)](https://github.com/dainy390/calculator/assets/112776500/96955a4c-e13c-4259-ba57-229676aaf9ca)
 ![2024-05-05 (6)](https://github.com/dainy390/calculator/assets/112776500/68105434-4a84-40d7-9944-8e73832dce46)
-![2024-05-05 (7)](https://github.com/dainy390/calculator/assets/112776500/e18f143a-6a69-4f70-9acc-e8618235a2f5)
+
